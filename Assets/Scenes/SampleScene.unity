@@ -293,8 +293,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cantTaxis: 25
-  CantTotalDias: 7
-  DiasLluvia: 0
+  CantTotalDias: 9
+  DiasLluvia: 1
 --- !u!4 &982109735
 Transform:
   m_ObjectHideFlags: 0
